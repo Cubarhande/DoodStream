@@ -1,5 +1,5 @@
 # DoodStream simalary website design 
-## welcome.png image to  website view
+## The website Doodstream.png has been converted to a png format.
 
 The website will be designed with responsiveness in mind, ensuring an optimal viewing experience across various devices and screen sizes. 
 CSS media queries will be used to adapt the layout and styling based on the user's device, and Bootstrap's responsive grid system will be
